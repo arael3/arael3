@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Ariel.
-- 🔭 I’m currently working as a hobby on Cleaning Robots League game - https://play.unity.com/mg/other/cleaning-robots-league
 - 🌱 I’m currently learning making games on the Unity engine. 
 - 👀 I’m interested in video games, astronomy, sci-fi.

@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Ariel.
-- 🌱 I’m currently learning game development with Unity engine.
-- 🔭 "The boxes are lava" game currently forged.
-- 👀 I’m interested in video games, astronomy, sci-fi.
+- 🚀 Recently completed project https://urlop.azurewebsites.net

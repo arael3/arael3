@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Ariel.
-- 🚀 Recently completed project https://urlop.azurewebsites.net
+- 👋 Hi
